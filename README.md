@@ -24,5 +24,5 @@ Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
 Acknowledgments
-MTCNN: Link to MTCNN
-FaceNet: Link to FaceNet
+MTCNN: https://github.com/ipazc/mtcnn
+FaceNet: https://github.com/davidsandberg/facenet
